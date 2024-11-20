@@ -1,0 +1,7 @@
+H:\web api\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+H:\web api\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+H:\web api\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+H:\web api\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+H:\web api\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+H:\web api\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
